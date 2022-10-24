@@ -8,15 +8,18 @@ Vue.use(Vuex)
 export default new Vuex.Store({
   state: {
     login: false,
-    id: "",
-    nome: "",
-    email: "",
-    cep: "",
-    rua: "",
-    numero: "",
-    bairro: "",
-    cidade: "",
-    estado: "",
+    usuario: {
+      id: '',
+      nome: '',
+      email: '',
+      password: '',
+      cep: '',
+      rua: '',
+      numero: '',
+      bairro: '',
+      cidade: '',
+      estado: ''
+    },
   },
   getters: {
   },
@@ -25,7 +28,7 @@ export default new Vuex.Store({
       state.login = payload;
     },
     UPDATE_USUARIO(state, payload) {
-      state.usuario = payload;
+      state.usuario = Object.assign(state.usuario, payload);
     }
   },
   actions: {
