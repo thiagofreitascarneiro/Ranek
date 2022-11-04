@@ -1,242 +1,219 @@
-{   "usuario": [
-  {
-    "id": "thiago@gmail.com",
-    "email": "thiago@gmail.com",
-    "nome": "Thiago Carneiro",
-    "senha": "123",
-    "rua": "Rua alto belo",
-    "cep": "12345678",
-    "numero": "130",
-    "estado": "RJ",
-    "cidade": "Rio de Janeiro"
-  },
-  {
-    "id": "joao@gmail.com",
-    "email": "joao@gmail.com",
-    "nome": "Joao Assunção",
-    "senha": "123",
-    "rua": "Rua alto belo",
-    "cep": "12345678",
-    "numero": "130",
-    "estado": "RJ",
-    "cidade": "são Paulo"
-  },
-  {
-    "id": "mariana@encinterativa.com.br",
-    "nome": "Mariana",
-    "email": "mariana@encinterativa.com.br",
-    "password": "",
-    "cep": "03478020",
-    "rua": "Rua Felipe Pedroso",
-    "numero": "444",
-    "bairro": "Vila Antonieta",
-    "cidade": "São Paulo",
-    "estado": "SP",
-    "senha": "11233"
-  },
-  {
-    "id": "thiago@encinterativa.com.br",
-    "nome": "thiago",
-    "email": "thiago@encinterativa.com.br",
-    "password": "",
-    "cep": "03478020",
-    "rua": "Rua Felipe Pedroso",
-    "numero": "22",
-    "bairro": "Vila Antonieta",
-    "cidade": "São Paulo",
-    "estado": "SP",
-    "senha": "123"
-  }
-],
-"produto": [
-  {
-    "id": "notebook",
-    "nome": "Notebook",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "4999",
-    "vendido": "false",
-    "descricao": "Esse é um novo notebook.",
-    "fotos": null
-  },
-  {
-    "id": "smartphone",
-    "nome": "Smartphone",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "3999",
-    "vendido": "false",
-    "descricao": "Esse é um novo smartphone.",
-    "fotos": null
-  },
-  {
-    "id": "tablet",
-    "nome": "Tablet",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "1999",
-    "vendido": "false",
-    "descricao": "Esse é um novo tablet.",
-    "fotos": null
-  },
-  {
-    "id": "notebook",
-    "nome": "Notebook",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "4999",
-    "vendido": "false",
-    "descricao": "Esse é um novo notebook.",
-    "fotos": null
-  },
-  {
-    "id": "smartphone",
-    "nome": "Smartphone",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "3999",
-    "vendido": "false",
-    "descricao": "Esse é um novo smartphone.",
-    "fotos": null
-  },
-  {
-    "id": "tablet",
-    "nome": "Tablet",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "1999",
-    "vendido": "false",
-    "descricao": "Esse é um novo tablet.",
-    "fotos": null
-  },
-  {
-    "id": "notebook",
-    "nome": "Notebook",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "4999",
-    "vendido": "false",
-    "descricao": "Esse é um novo notebook.",
-    "fotos": null
-  },
-  {
-    "id": "smartphone",
-    "nome": "Smartphone",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "3999",
-    "vendido": "false",
-    "descricao": "Esse é um novo smartphone.",
-    "fotos": null
-  },
-  {
-    "id": "tablet",
-    "nome": "Tablet",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "1999",
-    "vendido": "false",
-    "descricao": "Esse é um novo tablet.",
-    "fotos": null
-  },
-  {
-    "id": "notebook",
-    "nome": "Notebook",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "4999",
-    "vendido": "false",
-    "descricao": "Esse é um novo notebook.",
-    "fotos": null
-  },
-  {
-    "id": "smartphone",
-    "nome": "Smartphone",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "3999",
-    "vendido": "false",
-    "descricao": "Esse é um novo smartphone.",
-    "fotos": null
-  },
-  {
-    "id": "tablet",
-    "nome": "Tablet",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "1999",
-    "vendido": "false",
-    "descricao": "Esse é um novo tablet.",
-    "fotos": null
-  },
-  {
-    "id": "notebook",
-    "nome": "Notebook",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "4999",
-    "vendido": "false",
-    "descricao": "Esse é um novo notebook.",
-    "fotos": null
-  },
-  {
-    "id": "smartphone",
-    "nome": "Smartphone",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "3999",
-    "vendido": "false",
-    "descricao": "Esse é um novo smartphone.",
-    "fotos": null
-  },
-  {
-    "id": "tablet",
-    "nome": "Tablet",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "1999",
-    "vendido": "false",
-    "descricao": "Esse é um novo tablet.",
-    "fotos": null
-  },
-  {
-    "id": "notebook",
-    "nome": "Notebook",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "4999",
-    "vendido": "false",
-    "descricao": "Esse é um novo notebook.",
-    "fotos": null
-  },
-  {
-    "id": "smartphone",
-    "nome": "Smartphone",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "3999",
-    "vendido": "false",
-    "descricao": "Esse é um novo smartphone.",
-    "fotos": null
-  },
-  {
-    "id": "tablet",
-    "nome": "Tablet",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "1999",
-    "vendido": "false",
-    "descricao": "Esse é um novo tablet.",
-    "fotos": null
-  },
-  {
-    "id": "notebook",
-    "nome": "Notebook",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "4999",
-    "vendido": "false",
-    "descricao": "Esse é um novo notebook.",
-    "fotos": null
-  },
-  {
-    "id": "smartphone",
-    "nome": "Smartphone",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "3999",
-    "vendido": "false",
-    "descricao": "Esse é um novo smartphone.",
-    "fotos": null
-  },
-  {
-    "id": "tablet",
-    "nome": "Tablet",
-    "usuario_id": "thiago@gmail.com",
-    "preco": "1999",
-    "vendido": "false",
-    "descricao": "Esse é um novo tablet.",
-    "fotos": null
-  }
-]
+{ 
+    "usuario": [
+        {
+            "id": "thiago@gmail.com",
+            "email": "thiago@gmail.com",
+            "nome": "Thiago Carneiro",
+            "senha": "123",
+            "rua": "Rua alto belo",
+            "cep": "12345678",
+            "numero": "130",
+            "estado": "RJ",
+            "cidade": "Rio de Janeiro"
+
+        },
+        {
+            "id": "joao@gmail.com",
+            "email": "joao@gmail.com",
+            "nome": "Joao Assunção",
+            "senha": "123",
+            "rua": "Rua alto belo",
+            "cep": "12345678",
+            "numero": "130",
+            "estado": "RJ",
+            "cidade": "são Paulo"
+
+        }
+    ],
+    "produto": [
+        {
+            "id": "notebook",
+            "nome": "Notebook",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "4999",
+            "vendido": "false",
+            "descricao": "Esse é um novo notebook.",
+            "fotos": null
+        },
+        {
+            "id": "smartphone",
+            "nome": "Smartphone",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "3999",
+            "vendido": "false",
+            "descricao": "Esse é um novo smartphone.",
+            "fotos": null
+        },
+        {
+            "id": "tablet",
+            "nome": "Tablet",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "1999",
+            "vendido": "false",
+            "descricao": "Esse é um novo tablet.",
+            "fotos": null
+        },
+        {
+            "id": "notebook",
+            "nome": "Notebook",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "4999",
+            "vendido": "false",
+            "descricao": "Esse é um novo notebook.",
+            "fotos": null
+        },
+        {
+            "id": "smartphone",
+            "nome": "Smartphone",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "3999",
+            "vendido": "false",
+            "descricao": "Esse é um novo smartphone.",
+            "fotos": null
+        },
+        {
+            "id": "tablet",
+            "nome": "Tablet",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "1999",
+            "vendido": "false",
+            "descricao": "Esse é um novo tablet.",
+            "fotos": null
+        },
+        {
+            "id": "notebook",
+            "nome": "Notebook",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "4999",
+            "vendido": "false",
+            "descricao": "Esse é um novo notebook.",
+            "fotos": null
+        },
+        {
+            "id": "smartphone",
+            "nome": "Smartphone",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "3999",
+            "vendido": "false",
+            "descricao": "Esse é um novo smartphone.",
+            "fotos": null
+        },
+        {
+            "id": "tablet",
+            "nome": "Tablet",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "1999",
+            "vendido": "false",
+            "descricao": "Esse é um novo tablet.",
+            "fotos": null
+        },
+        {
+            "id": "notebook",
+            "nome": "Notebook",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "4999",
+            "vendido": "false",
+            "descricao": "Esse é um novo notebook.",
+            "fotos": null
+        },
+        {
+            "id": "smartphone",
+            "nome": "Smartphone",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "3999",
+            "vendido": "false",
+            "descricao": "Esse é um novo smartphone.",
+            "fotos": null
+        },
+        {
+            "id": "tablet",
+            "nome": "Tablet",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "1999",
+            "vendido": "false",
+            "descricao": "Esse é um novo tablet.",
+            "fotos": null
+        },
+        {
+            "id": "notebook",
+            "nome": "Notebook",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "4999",
+            "vendido": "false",
+            "descricao": "Esse é um novo notebook.",
+            "fotos": null
+        },
+        {
+            "id": "smartphone",
+            "nome": "Smartphone",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "3999",
+            "vendido": "false",
+            "descricao": "Esse é um novo smartphone.",
+            "fotos": null
+        },
+        {
+            "id": "tablet",
+            "nome": "Tablet",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "1999",
+            "vendido": "false",
+            "descricao": "Esse é um novo tablet.",
+            "fotos": null
+        },
+        {
+            "id": "notebook",
+            "nome": "Notebook",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "4999",
+            "vendido": "false",
+            "descricao": "Esse é um novo notebook.",
+            "fotos": null
+        },
+        {
+            "id": "smartphone",
+            "nome": "Smartphone",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "3999",
+            "vendido": "false",
+            "descricao": "Esse é um novo smartphone.",
+            "fotos": null
+        },
+        {
+            "id": "tablet",
+            "nome": "Tablet",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "1999",
+            "vendido": "false",
+            "descricao": "Esse é um novo tablet.",
+            "fotos": null
+        }, {
+            "id": "notebook",
+            "nome": "Notebook",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "4999",
+            "vendido": "false",
+            "descricao": "Esse é um novo notebook.",
+            "fotos": null
+        },
+        {
+            "id": "smartphone",
+            "nome": "Smartphone",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "3999",
+            "vendido": "false",
+            "descricao": "Esse é um novo smartphone.",
+            "fotos": null
+        },
+        {
+            "id": "tablet",
+            "nome": "Tablet",
+            "usuario_id": "thiago@gmail.com",
+            "preco": "1999",
+            "vendido": "false",
+            "descricao": "Esse é um novo tablet.",
+            "fotos": null
+        }
+    ]
+
 }
