@@ -30,7 +30,8 @@ export default {
           nome: "",
           preco: "",
           descricao: "",
-          fotos: null
+          fotos: null,
+          vendido: "false",
         }
       };
     },
