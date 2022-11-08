@@ -69,8 +69,20 @@ export default {
     color: #e80;
 }
 
+.entrega {
+    display: grid;
+    grid-template-columns: minmax(100px, 200px) 1fr;
+    grid-gap: 20px;
+    margin-bottom: 60px;
+}
+
 h2 {
     margin-bottom: 20px;
+}
+
+h3 {
+    margin: 0px;
+    justify-self: end;
 }
 
 </style>
